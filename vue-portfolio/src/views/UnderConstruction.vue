@@ -1,7 +1,7 @@
 <template>
   <div class="under-construction">
-    <h1>🚧 Seite im Aufbau 🚧</h1>
-    <p>Diese Seite befindet sich noch in der Entwicklung. Bitte schau später wieder vorbei!</p>
+    <h1>🚧 Page Under Construction 🚧</h1>
+    <p>This page is currently under development. Please check back later!</p>
   </div>
 </template>
 
